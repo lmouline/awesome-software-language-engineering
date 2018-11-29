@@ -1,9 +1,9 @@
-site_name: 'Awesome Static Analysis'
-site_url: 'https://awesome-static-analysis.com'
-site_description: 'A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages'
-site_author: 'Matthias Endler'
-repo_name: 'mre/awesome-static-analysis/'
-repo_url: 'https://github.com/mre/awesome-static-analysis/'
+site_name: 'Awesome Software Language Engineering'
+site_url: 'manuelleduc.github.io/awesome-software-language-engineering/'
+site_description: 'A curated list of software language engineering tools, frameworks and books.'
+site_author: 'Manuel Leduc'
+repo_name: 'manuelleduc/awesome-software-language-engineering/'
+repo_url: 'https://github.com/manuelleduc/awesome-software-language-engineering/'
 theme: 'material'
 extra:
   feature:
@@ -13,14 +13,9 @@ extra:
     accent: 'pink'
   social:
     - type: 'github'
-      link: 'https://github.com/mre'
+      link: 'https://github.com/manuelleduc'
     - type: 'twitter'
-      link: 'https://twitter.com/matthiasendler'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/matthiasendler'
-google_analytics:
-  - 'UA-693428-1'
-  - 'auto'
+      link: 'https://twitter.com/manuel_leduc'
 extra_css:
   - css/extra.css
 markdown_extensions:

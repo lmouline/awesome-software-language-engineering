@@ -5,6 +5,13 @@
 This is a collection of software language engineering (SLE) tools, frameworks and books. Pull requests are very welcome!  
 
 
+## Deployment
+
+```
+$ # Edit content in [docs](docs) directory.
+$ pip install mkdocs-material
+$ mkdocs gh-deploy
+```
 
 ## License
 

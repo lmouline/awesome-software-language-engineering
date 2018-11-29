@@ -1,5 +1,5 @@
 [package]
-authors = ["Matthias Endler <matthias-endler@gmx.net>"]
+authors = ["Manuel Leduc <manuel.leduc@gmail.com>"]
 name = "ci"
 version = "0.2.0"
 

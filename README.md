@@ -4,6 +4,9 @@
 
 This is a collection of software language engineering (SLE) tools, frameworks and books. Pull requests are very welcome!  
 
+## Acknowledgments
+
+This work is a fork of the https://github.com/mre/awesome-static-analysis project.
 
 ## Deployment
 

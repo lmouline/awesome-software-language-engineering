@@ -291,11 +291,14 @@
 <blockquote>
 <p>SLE is defined as the application of systematic, disciplined, and measurable approaches to the development, deployment, use, and maintenance of software languages — <a href="https://slebok.github.io/">SLEBoK (Software Language Engineering Body of Knowledge)</a></p>
 </blockquote>
-<p>This is a collection of software language engineering (SLE) tools, frameworks and books. Pull requests are very welcome!  </p>
+<p>This is a collection of software language engineering (SLE) tools, frameworks and books.<br />
+With a focus on maintained and open-source projects.<br />
+Pull requests are very welcome!</p>
 <p><strong>Table of content</strong></p>
 <div class="toc">
 <ul>
 <li><a href="#language-workbench">Language Workbench</a></li>
+<li><a href="#attribute-grammar">Attribute grammar</a></li>
 <li><a href="#metalanguages">Metalanguages</a><ul>
 <li><a href="#general-purpose">General purpose</a></li>
 <li><a href="#visual-syntax">Visual syntax</a></li>
@@ -303,13 +306,14 @@
 <li><a href="#code-generation">Code Generation</a></li>
 <li><a href="#syntax">Syntax</a></li>
 <li><a href="#semantics">Semantics</a></li>
+<li><a href="#static-semantics">Static semantics</a></li>
+<li><a href="#model-transformation">Model transformation</a></li>
+<li><a href="#type-system">Type system</a></li>
 </ul>
 </li>
 <li><a href="#books">Books</a></li>
-<li><a href="#blogs">Blogs</a><ul>
-<li><a href="#license">License</a></li>
-</ul>
-</li>
+<li><a href="#blogs">Blogs</a></li>
+<li><a href="#to-be-classified">To be classified</a></li>
 </ul>
 </div>
 <h1 id="language-workbench">Language Workbench</h1>
@@ -324,6 +328,15 @@
 <li><strong>Rascal:</strong> <a href="http://www.rascal-mpl.org/">http://www.rascal-mpl.org/</a></li>
 <li><strong>Spoofax:</strong> <a href="www.metaborg.org/">www.metaborg.org/</a></li>
 <li><strong>Xtext:</strong> <a href="https://www.eclipse.org/Xtext/">https://www.eclipse.org/Xtext/</a></li>
+<li><strong>Racket:</strong> <a href="https://racket-lang.org/">https://racket-lang.org/</a></li>
+</ul>
+<h1 id="attribute-grammar">Attribute grammar</h1>
+<blockquote>
+<p>An attribute grammar is a formal way to define attributes for the productions of a formal grammar, associating these attributes with values. The evaluation occurs in the nodes of the abstract syntax tree, when the language is processed by some parser or compiler.  - <a href="https://en.wikipedia.org/wiki/Attribute_grammar">Wikipedia</a></p>
+</blockquote>
+<ul>
+<li><strong>Silver:</strong> <a href="http://melt.cs.umn.edu/silver/">http://melt.cs.umn.edu/silver/</a></li>
+<li><strong>JastAdd:</strong> <a href="http://jastadd.org/web/">http://jastadd.org/web/</a></li>
 </ul>
 <h1 id="metalanguages">Metalanguages</h1>
 <blockquote>
@@ -338,18 +351,37 @@
 <li><strong>Sirius:</strong> <a href="https://www.eclipse.org/sirius/">https://www.eclipse.org/sirius/</a></li>
 </ul>
 <h2 id="grammar">Grammar</h2>
+<ul>
+<li><strong>Copper:</strong> <a href="http://melt.cs.umn.edu/copper/">http://melt.cs.umn.edu/copper/</a></li>
+</ul>
 <h2 id="code-generation">Code Generation</h2>
 <ul>
 <li><strong>Javapoet:</strong> <a href="https://github.com/square/javapoet">https://github.com/square/javapoet</a></li>
+<li><strong>Epsilon EGL:</strong> <a href="https://www.eclipse.org/epsilon/doc/egl/">https://www.eclipse.org/epsilon/doc/egl/</a></li>
+<li><strong>Acceleo:</strong> <a href="https://www.eclipse.org/acceleo/">https://www.eclipse.org/acceleo/</a></li>
 </ul>
 <h2 id="syntax">Syntax</h2>
 <ul>
 <li><strong>Eclipse Modeling Framework (EMF):</strong> <a href="https://www.eclipse.org/modeling/emf/">https://www.eclipse.org/modeling/emf/</a></li>
+<li><strong>Spoofax SDF3:</strong> <a href="http://www.metaborg.org/en/latest/source/langdev/meta/lang/sdf3/">http://www.metaborg.org/en/latest/source/langdev/meta/lang/sdf3/</a>.</li>
 </ul>
 <h2 id="semantics">Semantics</h2>
 <ul>
 <li><strong>ALE:</strong> <a href="http://gemoc.org/ale-lang/">http://gemoc.org/ale-lang/</a></li>
 <li><strong>Kermeta 3:</strong> <a href="http://diverse-project.github.io/k3/">http://diverse-project.github.io/k3/</a></li>
+<li><strong>Spoofax DynSem:</strong> <a href="http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html">http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html</a> </li>
+</ul>
+<h2 id="static-semantics">Static semantics</h2>
+<ul>
+<li><strong>Epsilon EVL:</strong> <a href="https://www.eclipse.org/epsilon/doc/evl/">https://www.eclipse.org/epsilon/doc/evl/</a></li>
+</ul>
+<h2 id="model-transformation">Model transformation</h2>
+<ul>
+<li><strong>ETL:</strong> <a href="https://www.eclipse.org/epsilon/doc/etl/">https://www.eclipse.org/epsilon/doc/etl/</a></li>
+</ul>
+<h2 id="type-system">Type system</h2>
+<ul>
+<li><strong>Xsemantics:</strong> <a href="http://xsemantics.sourceforge.net/">http://xsemantics.sourceforge.net/</a></li>
 </ul>
 <h1 id="books">Books</h1>
 <ul>
@@ -361,7 +393,11 @@
 <ul>
 <li><a href="https://languageengineering.io/">https://languageengineering.io/</a></li>
 </ul>
-<h2 id="license">License</h2>
+<h1 id="to-be-classified">To be classified</h1>
+<ul>
+<li><strong>Kiama:</strong> <a href="https://wiki.mq.edu.au/display/plrg/Kiama">https://wiki.mq.edu.au/display/plrg/Kiama</a></li>
+</ul>
+<p><strong>License</strong></p>
 <p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="CC0" src="https://i.creativecommons.org/p/zero/1.0/88x31.png" /></a></p>
 <p>To the extent possible under law, <a href="///mleduc.xyz">Manuel Leduc</a> has waived all copyright and related or neighboring rights to this work.
 Title image <a href="http://www.freepik.com">Designed by Freepik</a>.</p>

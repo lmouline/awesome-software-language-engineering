@@ -105,6 +105,10 @@ Pull requests are very welcome!
 
 - [https://languageengineering.io/](https://languageengineering.io/)
 
+# Talks
+
+- [Domain Specific Languages in SPLE, Why and How?](http://www.voelter.de/data/presentations/splc2018-keynote.pdf), by [M. Völter](http://www.voelter.de/) at [SPLC'18](http://splc2018.net/)
+
 # To be classified
 
 - **Kiama:** [https://wiki.mq.edu.au/display/plrg/Kiama](https://wiki.mq.edu.au/display/plrg/Kiama)

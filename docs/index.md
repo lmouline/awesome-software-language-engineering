@@ -53,6 +53,8 @@ Pull requests are very welcome!
 
 ## General purpose
 - **Xtend:** [https://www.eclipse.org/xtend/](https://www.eclipse.org/xtend/)
+- **Converge:** [https://convergepl.org/](https://convergepl.org/)
+- **Kiama:** [https://wiki.mq.edu.au/display/plrg/Kiama](https://wiki.mq.edu.au/display/plrg/Kiama)
 
 ## Visual syntax
 
@@ -79,6 +81,7 @@ Pull requests are very welcome!
 - **ALE:** [http://gemoc.org/ale-lang/](http://gemoc.org/ale-lang/)
 - **Kermeta 3:** [http://diverse-project.github.io/k3/](http://diverse-project.github.io/k3/)
 - **Spoofax DynSem:** [http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html](http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html) 
+- **CBS (omponent-based specification of programming languages):** [https://plancomps.github.io/CBS-beta/](https://plancomps.github.io/CBS-beta/)
 
 
 ## Static semantics
@@ -92,6 +95,7 @@ Pull requests are very welcome!
 ## Type system
 
 - **Xsemantics:** [http://xsemantics.sourceforge.net/](http://xsemantics.sourceforge.net/)
+
 
 # Books
 
@@ -108,10 +112,6 @@ Pull requests are very welcome!
 # Talks
 
 - [Domain Specific Languages in SPLE, Why and How?](http://www.voelter.de/data/presentations/splc2018-keynote.pdf), by [M. Völter](http://www.voelter.de/) at [SPLC'18](http://splc2018.net/)
-
-# To be classified
-
-- **Kiama:** [https://wiki.mq.edu.au/display/plrg/Kiama](https://wiki.mq.edu.au/display/plrg/Kiama)
 
 **License**
 

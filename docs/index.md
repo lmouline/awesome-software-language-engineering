@@ -35,7 +35,7 @@ Pull requests are very welcome!
 - **MPS:** [https://www.jetbrains.com/mps/](https://www.jetbrains.com/mps/)
 - **Neverlang:** [http://neverlang.di.unimi.it/](http://neverlang.di.unimi.it/)
 - **Rascal:** [http://www.rascal-mpl.org/](http://www.rascal-mpl.org/)
-- **Spoofax:** [www.metaborg.org/](www.metaborg.org/)
+- **Spoofax:** [www.metaborg.org/](https://www.metaborg.org/)
 - **Xtext:** [https://www.eclipse.org/Xtext/](https://www.eclipse.org/Xtext/)
 - **Racket:** [https://racket-lang.org/](https://racket-lang.org/)
 

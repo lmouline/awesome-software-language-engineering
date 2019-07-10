@@ -105,6 +105,7 @@ Pull requests are very welcome!
 - **DSL Engineering:** [http://dslbook.org/](http://dslbook.org/)
 - **Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)**
 - **Compilers: Principles, Techniques, and Tools (2nd Edition)**
+- **Principles of Software Language Design for Model-Driven Software Engineering**, Andrzej Wasowski and Thorsten Berger, *[Coming soon]* [https://mdsebook.bitbucket.io/](https://mdsebook.bitbucket.io/)
 
 # Blogs
 

@@ -110,6 +110,7 @@ Pull requests are very welcome!
 # Blogs
 
 - [https://languageengineering.io/](https://languageengineering.io/)
+- [https://modeling-languages.com/](https://modeling-languages.com/)
 
 # Talks
 

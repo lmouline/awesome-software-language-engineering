@@ -106,6 +106,7 @@ Pull requests are very welcome!
 - **Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)**
 - **Compilers: Principles, Techniques, and Tools (2nd Edition)**
 - **Principles of Software Language Design for Model-Driven Software Engineering**, Andrzej Wasowski and Thorsten Berger, *[Coming soon]* [https://mdsebook.bitbucket.io/](https://mdsebook.bitbucket.io/)
+- **Compilers: Principles, Techniques, and Tools**, aka the Dragon book, Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, [PDF](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 
 # Blogs
 
